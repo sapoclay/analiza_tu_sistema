@@ -42,22 +42,22 @@ Todas estas dependencias se instalarán de forma automática al ejecutar el prog
 
 Clona este repositorio:
 
-'''
+```
 git clone https://github.com/tu_usuario/analiza_tu_sistema.git
 cd analiza_tu_sistema
-'''
+```
 
 Una vez que tengamos el programa en nuestro sistema, basta con escribir en la terminal:
 
 En linux:
-'''
+```
 python3 run_app.py
-'''
+```
 
 En Windows:
-'''
+```
 python.exe run_app.py
-'''
+```
 
 ## Uso
 
