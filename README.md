@@ -61,6 +61,8 @@ python.exe run_app.py
 
 ## Uso
 
+![ATS](https://github.com/user-attachments/assets/84e711eb-ed53-4129-b491-ab2472806bfe)
+
 Al ejecutar la aplicación, se mostrará una ventana con varias pestañas, cada una proporcionando información detallada sobre un aspecto del sistema:
 
 🖥️ Sistema: Detalles del sistema operativo y hardware.
