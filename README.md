@@ -85,4 +85,4 @@ Si deseas mejorar esta aplicación, puedes hacer un fork del repositorio y envia
 
 ## Licencia
 
-Este proyecto está licenciado bajo la MIT License.
+Este proyecto está licenciado bajo la [MIT License](https://github.com/sapoclay/analiza_tu_sistema/blob/main/LICENSE).
